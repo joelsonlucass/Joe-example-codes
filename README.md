@@ -4,12 +4,12 @@
 use it for the development of your website, see also the best open libraries for your assistance.
 https://igluonline.com/melhores-biblibraries-javascript-e-css/
 
-.　 /￣|
-　｜ .｜
-,―′　 .|⋀ ⋀
-| ＿_）(＾ω＾)
-| ＿_）|⊂)
-| ＿_）|- By: Joe
-ヽ＿)ノ
+.　 /￣|<br>
+　｜ .｜<br>
+,―′　 .|⋀ ⋀<br>
+| ＿_）(＾ω＾)<br>
+| ＿_）|⊂)<br>
+| ＿_）|- By: Joe<br>
+ヽ＿)ノ<br>
  
 
